@@ -1933,7 +1933,7 @@
         "TICKETS": "Tickets",
         "TICKET_FAIL": "Failed to import ticket!  This is usually caused by missing sigpatches for your firmware or a corrupted ticket database\n",
         "TIME": "Time",
-        "TINFOIL_DETECTED_THAT_YOU_MAY_BE": "Tinfoil detected that you may be running Kosmos or Hekate custom firmware.  Please note that this may cause unexpected failures launching games, force the re-installation of games, and many other issues.\n\nFor your own safety, time, sanity, and the safety of your Nintendo Switch, please use Atmosphere / Fusee Primary, or SX OS instead.\n\nThis warning can be disabled by removing Kosmos from your SD card.\n\nPress  to close this application.\n\nPress  to uninstall these offending files and continue into this application.",
+        "TINFOIL_DETECTED_THAT_YOU_MAY_BE": "Tinfoil detected that you have patches for Atmosphere booted via FSS0 from Hekate. Booting Atmosphere this may cause unexpected failures launching games, force the re-installation of games, and many other issues.\n\nFor your own safety, time, sanity, and the safety of your Nintendo Switch, use fusee-primary.bin to boot Atmosphere.\n\nTo be able to use this application, you must either use Atmosphere booted with fusee-primary.bin or use SX OS / ReiNX instead. If you are currently booted with fusee-primary.bin, you can uninstall the offending files and continue without issues.\n\nPress  to close this application.\n\nPress  to uninstall these offending files and continue into this application."
         "TITLE_ID": "Title ID",
         "TITLE_REQUIRES_HIGHER_SYSTEM_FIR": "Title requires higher system firmware.\n",
         "TYPE": "Type",
