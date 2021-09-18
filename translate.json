@@ -1873,6 +1873,7 @@
         "ENABLE_NUT": "Enable NUT",
         "ERASE_PERSONAL_DATA": "Erase Personal Data",
         "ERROR_FIRMWARE_BELOW_5": "Only firmware 5.0.0 and above is supported",
+        "ERROR_FIRMWARE_BELOW_CFW": "Your current CFW version is too low to support this HOS firmware.  Please upgrade your CFW.",
         "ESHOP_DUMP": "eShop Dump",
         "EXIT": "Exit",
         "EXTRACT_ICONS_NSP": "Extract Icons From NSP",
